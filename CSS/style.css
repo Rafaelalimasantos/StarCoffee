@@ -139,3 +139,13 @@ main>img {
         width: 100%;
     }
 }
+
+.icones {
+    margin: 5px;
+    margin-top: 20px;
+}
+
+.icones > img {
+    margin: 5px;
+    margin-top: 20px;
+}
